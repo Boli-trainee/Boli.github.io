@@ -1,3 +1,3 @@
-# danielwusg.github.io
+# Boli.github.io
 
-Shengguang Wu's Academic Homepage.
+Bo Li's Academic Homepage.
