@@ -1,3 +1,3 @@
 # Boli.github.io
 
-Bo Li's Academic Homepage: [https://Boli-trainee.github.io/](https://boom5426.github.io/)
+Bo Li's Academic Homepage: [https://boom5426.github.io/](https://boom5426.github.io/)
